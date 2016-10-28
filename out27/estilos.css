@@ -1,0 +1,69 @@
+/* estilos.css */
+
+body {
+        /* Centrar a página */
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        
+        /*
+        text-align: center;
+        */
+        font-size: 150%;
+        
+        font-family: verdana, sans-serif;
+}
+
+h1, h2 { font-family: Georgia, serif; }
+
+
+a {
+        text-decoration: none;
+        color:#606060;
+        padding-right: 10px;
+        }
+
+a:hover {
+        background-color: #F0CA9F;
+        color:#398AB2;
+        }
+
+
+
+ul {
+    /* list-style-position: inside; */
+    list-style-type:none;
+    
+    /* Experiencia do FUNDO ... background */
+    
+    /*
+    background-color: orange;
+    padding:20px;
+    
+    border-width: 10px;
+    border-style: dotted;
+    border-color: black;
+    */
+    
+    /* border: 10px dotted black; */
+   }
+   
+li {
+    background-image: url('aluno_32.png');
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    margin-bottom: 10px;
+    
+    /* height: 32px; */
+    
+    min-height: 32px;
+    
+    line-height: 32px;
+    }   
+   
+   
+   
+   
+
+
+
